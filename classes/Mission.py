@@ -12,6 +12,3 @@ class Mission:
               f"Target: {self.target_location}\n"
               f"Agent {self.assigned_agent.code_name}")
 
-
-
-
